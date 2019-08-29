@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+Jesse Leon
 
 <br>
 
@@ -10,4 +10,4 @@ layout: default
 
 <br>
 
-{% include 03-links.md %}
+
