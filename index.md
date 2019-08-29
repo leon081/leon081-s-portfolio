@@ -12,5 +12,6 @@ layout: default
 
 {% include 03-links.md %}
 
-- Item 1
-- Item 2
+- Option 1
+- Option 2
+- Option 3
